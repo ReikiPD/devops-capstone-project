@@ -1,6 +1,6 @@
 # devops-capstone-project  
 
-![Build Status](https://github.com/<OWNER>/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/ReikiPD/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 
 This is a capstone project to develop an account microservice.
